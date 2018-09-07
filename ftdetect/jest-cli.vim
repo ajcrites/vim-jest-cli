@@ -1,1 +1,1 @@
-autocmd FileType javascript compiler jest-cli
+autocmd FileType javascript,typescript,javascript.jsx,typescript.jsx compiler jest-cli
